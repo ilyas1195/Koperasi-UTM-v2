@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Koperasi UTM — Katalog Produk Koperasi Mahasiswa Universitas Trunojoyo Madura</title>
+  <link rel="icon" type="image/png" href="img/logo-koperasi.png">
+  <meta name="description" content="Katalog digital Koperasi Mahasiswa Universitas Trunojoyo Madura. Menyediakan berbagai kebutuhan mahasiswa dengan pelayanan mudah, cepat, dan terpercaya.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <!-- LOADING SCREEN -->
+  <div id="loading-screen">
+    <div class="loader-icon">
+      <img src="img/logo-koperasi.png" alt="Koperasi UTM" class="loader-logo-img">
+    </div>
+    <p class="loader-text">Koperasi UTM</p>
+    <p class="loader-sub">Koperasi Mahasiswa Universitas Trunojoyo Madura</p>
+    <div class="loader-bar">
+      <div class="loader-bar-fill"></div>
+    </div>
+  </div>
+
+  <!-- NAVBAR -->
+  <nav id="navbar">
+    <div class="nav-inner container">
+      <a href="index.php" class="nav-logo">
+        <img src="img/logo-koperasi.png" alt="Koperasi UTM" class="nav-logo-img"> Koperasi UTM
+      </a>
+      <ul id="nav-menu" class="nav-menu">
+        <li><a href="index.php" class="nav-link active">Beranda</a></li>
+        <li><a href="profil.php" class="nav-link">Profil</a></li>
+        <li><a href="katalog.php" class="nav-link">Katalog</a></li>
+        <li><a href="kontak.php" class="nav-link">Kontak</a></li>
+      </ul>
+      <div class="nav-actions">
+        <button class="cart-btn" aria-label="Keranjang">
+          <i class="fas fa-shopping-bag"></i>
+          <span class="cart-badge">0</span>
+        </button>
+        <button id="hamburger" class="hamburger" aria-label="Menu">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </nav>
+  <div id="scroll-bar" class="scroll-bar"></div>
+
+  <!-- HERO -->
+  <section id="hero" class="hero">
+    <div class="hero-decor-circle"></div>
+    <div class="hero-grid-pattern"></div>
+    <div class="hero-decor-line"></div>
+    <div class="container hero-grid">
+      <div class="hero-text" data-aos="fade-right" data-aos-duration="1000">
+        <div class="hero-badge">
+          <img src="img/logo-koperasi.png" alt="" style="height:16px;width:auto"> Koperasi Mahasiswa Universitas Trunojoyo Madura
+        </div>
+        <h1 class="hero-title">
+          Katalog Digital<br>
+          <span class="hero-title-accent">Koperasi Mahasiswa</span><br>
+          Universitas Trunojoyo Madura
+        </h1>
+        <p class="hero-desc">
+          Menyediakan berbagai kebutuhan mahasiswa dengan pelayanan yang mudah, cepat, dan terpercaya.
+        </p>
+        <div class="hero-actions">
+          <a href="katalog.php" class="btn-primary">Jelajahi Produk <i class="fas fa-arrow-right"></i></a>
+          <a href="kontak.php" class="btn-outline">Hubungi Kami <i class="fas fa-phone-alt"></i></a>
+        </div>
+      </div>
+      <div class="hero-visual" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
+        <div class="hero-visual-bg-blur"></div>
+        <div class="hero-img-stack">
+          <div class="stack-img stack-img-main">
+            <img src="img/Website-elements-768x623.png" alt="Koperasi UTM" loading="lazy">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="scroll-indicator">
+      <span>Scroll</span>
+      <i class="fas fa-chevron-down"></i>
+    </div>
+  </section>
+
+  <!-- TENTANG KOPERASI -->
+  <section id="tentang" class="section about" data-aos="fade-up">
+    <div class="container">
+      <div class="about-grid">
+        <div class="about-image" data-aos="fade-right" data-aos-delay="100">
+          <div class="about-img-wrapper">
+            <img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600&q=80" alt="Kegiatan Koperasi Mahasiswa" loading="lazy">
+            <div class="about-badge-exp">
+              <strong>Sejak 2018</strong>
+              <span>Melayani Mahasiswa</span>
+            </div>
+          </div>
+        </div>
+        <div class="about-text" data-aos="fade-left" data-aos-delay="200">
+          <span class="section-tag">Tentang Koperasi UTM</span>
+          <h2>Koperasi Mahasiswa Universitas Trunojoyo Madura</h2>
+          <p>Koperasi UTM adalah koperasi yang berorientasi pada pelayanan mahasiswa, mendukung ekonomi kreatif mahasiswa, dan menyediakan berbagai kebutuhan sehari-hari di lingkungan kampus.</p>
+          <p>Sebagai wadah pengembangan ekonomi mahasiswa, Koperasi UTM berkomitmen untuk memberikan pelayanan terbaik dengan harga yang terjangkau dan produk yang berkualitas.</p>
+          <div class="about-features">
+            <div class="about-feature-item"><i class="fas fa-check-circle"></i> Berorientasi pada mahasiswa</div>
+            <div class="about-feature-item"><i class="fas fa-check-circle"></i> Mendukung ekonomi kreatif</div>
+            <div class="about-feature-item"><i class="fas fa-check-circle"></i> Harga terjangkau</div>
+            <div class="about-feature-item"><i class="fas fa-check-circle"></i> Produk berkualitas</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATISTIK -->
+  <section id="statistik" class="section statistics">
+    <div class="container">
+      <div class="section-header" data-aos="fade-up">
+        <span class="section-tag">Data</span>
+        <h2>Statistik Koperasi UTM</h2>
+        <p>Koperasi yang terus berkembang dalam melayani kebutuhan seluruh civitas akademika Universitas Trunojoyo Madura.</p>
+      </div>
+      <div class="stats-grid">
+        <div class="stat-card" data-aos="fade-up" data-aos-delay="0">
+          <i class="fas fa-box"></i>
+          <span class="stat-number" data-target="48">0</span>
+          <span class="stat-label">Total Produk</span>
+        </div>
+        <div class="stat-card" data-aos="fade-up" data-aos-delay="100">
+          <i class="fas fa-tags"></i>
+          <span class="stat-number" data-target="5">0</span>
+          <span class="stat-label">Total Kategori</span>
+        </div>
+        <div class="stat-card" data-aos="fade-up" data-aos-delay="200">
+          <i class="fas fa-shopping-bag"></i>
+          <span class="stat-number" data-target="32">0</span>
+          <span class="stat-label">Produk Retail</span>
+        </div>
+        <div class="stat-card" data-aos="fade-up" data-aos-delay="300">
+          <i class="fas fa-handshake"></i>
+          <span class="stat-number" data-target="16">0</span>
+          <span class="stat-label">Produk Konsinyasi</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- KATEGORI -->
+  <section id="kategori" class="section categories">
+    <div class="container">
+      <div class="section-header" data-aos="fade-up">
+        <span class="section-tag">Kategori</span>
+        <h2>Kategori Produk</h2>
+        <p>Berbagai pilihan produk yang tersedia untuk memenuhi kebutuhan Anda di lingkungan kampus.</p>
+      </div>
+      <div class="categories-grid">
+        <div class="category-card" data-aos="fade-up" data-aos-delay="0">
+          <div class="category-icon"><i class="fas fa-shopping-bag"></i></div>
+          <h3>Retail</h3>
+          <p>Produk kebutuhan sehari-hari seperti makanan ringan, minuman, dan perlengkapan kuliah yang tersedia langsung.</p>
+          <a href="katalog.php?filter=Retail" class="btn-outline btn-sm" style="margin-top:16px">Lihat Produk</a>
+        </div>
+        <div class="category-card" data-aos="fade-up" data-aos-delay="100">
+          <div class="category-icon"><i class="fas fa-handshake"></i></div>
+          <h3>Konsinyasi</h3>
+          <p>Produk titipan UMKM dan mitra lokal Madura, mendukung ekonomi kreatif mahasiswa dan masyarakat sekitar.</p>
+          <a href="katalog.php?filter=Konsinyasi" class="btn-outline btn-sm" style="margin-top:16px">Lihat Produk</a>
+        </div>
+        <div class="category-card" data-aos="fade-up" data-aos-delay="200">
+          <div class="category-icon"><i class="fas fa-ellipsis-h"></i></div>
+          <h3>Lainnya</h3>
+          <p>Alat tulis, perlengkapan kuliah, aksesoris, dan peralatan pendukung lainnya untuk menunjang perkuliahan.</p>
+          <a href="katalog.php?filter=Lainnya" class="btn-outline btn-sm" style="margin-top:16px">Lihat Produk</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRODUK TERBARU -->
+  <section id="produk" class="section latest-products">
+    <div class="container">
+      <div class="section-header" data-aos="fade-up">
+        <span class="section-tag">Produk</span>
+        <h2>Produk Terbaru</h2>
+        <p>Beberapa produk pilihan yang tersedia di Koperasi UTM. Klik untuk melihat detail dan melakukan pemesanan.</p>
+      </div>
+      <div id="products-grid" class="products-grid"></div>
+      <div style="text-align:center;margin-top:40px" data-aos="fade-up">
+        <a href="katalog.php" class="btn-primary">Lihat Semua Produk <i class="fas fa-arrow-right"></i></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="cta-section" data-aos="fade-up">
+    <div class="container">
+      <div class="cta-card">
+        <h2>"DARI ANGGOTA, OLEH ANGGOTA, UNTUK ANGGOTA"</h2>
+        <p>Jelajahi seluruh katalog produk Koperasi UTM dan temukan kebutuhan Anda.</p>
+        <a href="katalog.php" class="btn-primary"><i class="fas fa-shopping-bag"></i> Jelajahi Katalog</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="container footer-grid">
+      <div class="footer-brand">
+        <img src="img/logo-koperasi.png" alt="Koperasi UTM" class="footer-logo-img">
+        <h3>Koperasi UTM</h3>
+        <p>Koperasi Mahasiswa Universitas Trunojoyo Madura — Dari Anggota, Oleh Anggota, Untuk Anggota.</p>
+        <div class="footer-social">
+          <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+          <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+          <a href="#" aria-label="TikTok"><i class="fab fa-tiktok"></i></a>
+          <a href="#" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+
+        </div>
+      </div>
+      <div class="footer-links">
+        <h4>Navigasi</h4>
+        <a href="index.php">Beranda</a>
+        <a href="profil.php">Profil</a>
+        <a href="katalog.php">Katalog</a>
+        <a href="kontak.php">Kontak</a>
+      </div>
+      <div class="footer-links">
+        <h4>Kategori</h4>
+        <a href="katalog.php?filter=Retail">Retail</a>
+        <a href="katalog.php?filter=Konsinyasi">Konsinyasi</a>
+        <a href="katalog.php?filter=Lainnya">Lainnya</a>
+      </div>
+      <div class="footer-links">
+        <h4>Kontak</h4>
+        <div class="footer-contact-item"><i class="fas fa-map-marker-alt"></i><span>Jl. Raya Telang PO BOX 2 Kamal, Bangkalan 69162</span></div>
+        <div class="footer-contact-item"><i class="fas fa-phone-alt"></i><span>+62 811-3300-676</span></div>
+        <div class="footer-contact-item"><i class="fas fa-envelope"></i><span>koperasitrunojoyo@gmail.com</span></div>
+        <div class="footer-contact-item"><i class="fab fa-instagram"></i><span>@koperasiutm</span></div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2026 UKMFT-ITC. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <!-- PRODUCT MODAL -->
+  <div id="product-modal" class="modal">
+    <div class="modal-overlay"></div>
+    <div class="modal-content">
+      <button id="modal-close" class="modal-close"><i class="fas fa-times"></i></button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <!-- CART SIDEBAR -->
+  <div id="cart-overlay" class="cart-overlay"></div>
+  <div id="cart-sidebar" class="cart-sidebar">
+    <div class="cart-header">
+      <h3>Keranjang <span id="cart-count"></span></h3>
+      <button class="cart-close"><i class="fas fa-times"></i></button>
+    </div>
+    <div id="cart-items" class="cart-items">
+      <div class="cart-empty">
+        <i class="fas fa-shopping-cart"></i>
+        <h4>Keranjang Kosong</h4>
+        <p>Belum ada produk yang ditambahkan.</p>
+      </div>
+    </div>
+    <div class="cart-footer">
+      <div class="cart-total">
+        <span>Total Pembayaran</span>
+        <strong id="cart-total">Rp 0</strong>
+      </div>
+      <button class="btn-primary" onclick="checkoutWA()"><i class="fab fa-whatsapp"></i> Checkout via WhatsApp</button>
+      <button class="btn-gold" onclick="closeCart()"><i class="fas fa-shopping-bag"></i> Lanjut Belanja</button>
+    </div>
+  </div>
+
+  <!-- BACK TO TOP -->
+  <button id="back-to-top" class="back-to-top"><i class="fas fa-arrow-up"></i></button>
+
+  <!-- FLOATING WHATSAPP -->
+  <a href="https://wa.me/6285727877235" target="_blank" class="floating-wa" aria-label="WhatsApp">
+    <i class="fab fa-whatsapp"></i>
+  </a>
+
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script src="js/script.js"></script>
+</body>
+
+</html>
