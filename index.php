@@ -21,7 +21,7 @@
       <img src="img/logo-koperasi.png" alt="Koperasi UTM" class="loader-logo-img">
     </div>
     <p class="loader-text">Koperasi UTM</p>
-    <p class="loader-sub">Koperasi Mahasiswa Universitas Trunojoyo Madura</p>
+    <p class="loader-sub">Koperasi Mahasiswa Universitas Trunodjoyo Madura</p>
     <div class="loader-bar">
       <div class="loader-bar-fill"></div>
     </div>
@@ -60,12 +60,12 @@
     <div class="container hero-grid">
       <div class="hero-text" data-aos="fade-right" data-aos-duration="1000">
         <div class="hero-badge">
-          <img src="img/logo-koperasi.png" alt="" style="height:16px;width:auto"> Koperasi Mahasiswa Universitas Trunojoyo Madura
+          <img src="img/logo-koperasi.png" alt="" style="height:16px;width:auto"> Koperasi Mahasiswa Universitas Trunodjoyo Madura
         </div>
         <h1 class="hero-title">
           Katalog Digital<br>
           <span class="hero-title-accent">Koperasi Mahasiswa</span><br>
-          Universitas Trunojoyo Madura
+          Universitas Trunodjoyo Madura
         </h1>
         <p class="hero-desc">
           Menyediakan berbagai kebutuhan mahasiswa dengan pelayanan yang mudah, cepat, dan terpercaya.
@@ -105,7 +105,7 @@
         </div>
         <div class="about-text" data-aos="fade-left" data-aos-delay="200">
           <span class="section-tag">Tentang Koperasi UTM</span>
-          <h2>Koperasi Mahasiswa Universitas Trunojoyo Madura</h2>
+          <h2>Koperasi Mahasiswa Universitas Trunodjoyo Madura</h2>
           <p>Koperasi UTM adalah koperasi yang berorientasi pada pelayanan mahasiswa, mendukung ekonomi kreatif mahasiswa, dan menyediakan berbagai kebutuhan sehari-hari di lingkungan kampus.</p>
           <p>Sebagai wadah pengembangan ekonomi mahasiswa, Koperasi UTM berkomitmen untuk memberikan pelayanan terbaik dengan harga yang terjangkau dan produk yang berkualitas.</p>
           <div class="about-features">
@@ -125,7 +125,7 @@
       <div class="section-header" data-aos="fade-up">
         <span class="section-tag">Data</span>
         <h2>Statistik Koperasi UTM</h2>
-        <p>Koperasi yang terus berkembang dalam melayani kebutuhan seluruh civitas akademika Universitas Trunojoyo Madura.</p>
+        <p>Koperasi yang terus berkembang dalam melayani kebutuhan seluruh civitas akademika Universitas Trunodjoyo Madura.</p>
       </div>
       <div class="stats-grid">
         <div class="stat-card" data-aos="fade-up" data-aos-delay="0">

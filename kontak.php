@@ -75,7 +75,7 @@
             <div class="contact-detail-icon"><i class="fas fa-map-marker-alt"></i></div>
             <div class="contact-detail-text">
               <h4>Alamat</h4>
-              <p>Sekretariat Koperasi UTM<br>Gedung Student Center, Kampus Universitas Trunojoyo Madura<br>Jl. Raya Telang, Bangkalan, Madura 69162</p>
+              <p>Sekretariat Koperasi UTM<br>Gedung Cakra, Kampus Universitas Trunodjoyo Madura<br>Jl. Raya Telang PO BOX 2 Kamal, Bangkalan 69162</p>
             </div>
           </div>
 
@@ -83,7 +83,7 @@
             <div class="contact-detail-icon"><i class="fab fa-whatsapp"></i></div>
             <div class="contact-detail-text">
               <h4>WhatsApp</h4>
-              <p>+62 857 2787 7235</p>
+              <p>+62 811-3300-676</p>
             </div>
           </div>
 
@@ -91,7 +91,7 @@
             <div class="contact-detail-icon"><i class="fas fa-envelope"></i></div>
             <div class="contact-detail-text">
               <h4>Email</h4>
-              <p>kopma@trunojoyo.ac.id</p>
+              <p>koperasitrunojoyo@gmail.com</p>
             </div>
           </div>
 
@@ -99,7 +99,7 @@
             <div class="contact-detail-icon"><i class="fab fa-instagram"></i></div>
             <div class="contact-detail-text">
               <h4>Instagram</h4>
-              <p>@kopma_utm</p>
+              <p>@koperasiutm</p>
             </div>
           </div>
         </div>
@@ -125,7 +125,7 @@
       </div>
 
       <div class="map-wrap" data-aos="fade-up" data-aos-delay="50">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3963.615379733752!2d112.79264557409814!3d-7.047111169013563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd803b8e8e3c3e9%3A0x8c7f5b5f5c5f5c5f!2sUniversitas%20Trunojoyo%20Madura!5e0!3m2!1sid!2sid!4v1690000000000" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3963.615379733752!2d112.7271187!3d-7.1172706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd803dd04854303%3A0xa436f3258944c98f!2sGedung%20Cakra%20-%20UTM!5e0!3m2!1sid!2sid!4v1710000000000" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
     </div>
   </section>

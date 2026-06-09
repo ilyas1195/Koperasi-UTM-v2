@@ -92,30 +92,22 @@
       <div class="vm-inner">
         <div class="vm-visi-block" data-aos="fade-up" data-aos-delay="0">
           <div class="vm-visi-marker"><i class="fas fa-bullseye"></i> Visi</div>
-          <blockquote>Menjadi koperasi mahasiswa yang mandiri, profesional, dan berdaya saing tinggi dalam mendukung kesejahteraan mahasiswa serta pengembangan ekonomi kreatif di lingkungan Universitas Trunojoyo Madura.</blockquote>
+          <blockquote>Koperasi UTM menjadi Koperasi Nasional.</blockquote>
         </div>
         <div class="vm-misi-block" data-aos="fade-up" data-aos-delay="100">
           <div class="vm-visi-marker vm-misi-marker"><i class="fas fa-flag-checkered"></i> Misi</div>
           <div class="vm-misi-list">
             <div class="vm-misi-item">
               <div class="vm-misi-num">1</div>
-              <div class="vm-misi-text">Menyediakan kebutuhan pokok dan perlengkapan mahasiswa dengan harga terjangkau dan kualitas terbaik.</div>
+              <div class="vm-misi-text">Memberi Layanan, Menyediakan Produk, Jasa serta Kebutuhan Anggota.</div>
             </div>
             <div class="vm-misi-item">
               <div class="vm-misi-num">2</div>
-              <div class="vm-misi-text">Mengembangkan wirausaha dan ekonomi kreatif mahasiswa melalui program konsinyasi dan kemitraan.</div>
+              <div class="vm-misi-text">Membantu Menciptakan Peluang Usaha Bagi Anggota.</div>
             </div>
             <div class="vm-misi-item">
               <div class="vm-misi-num">3</div>
-              <div class="vm-misi-text">Meningkatkan literasi keuangan dan ekonomi syariah di kalangan mahasiswa.</div>
-            </div>
-            <div class="vm-misi-item">
-              <div class="vm-misi-num">4</div>
-              <div class="vm-misi-text">Membangun jaringan kemitraan dengan UMKM lokal untuk mendukung perekonomian masyarakat Madura.</div>
-            </div>
-            <div class="vm-misi-item">
-              <div class="vm-misi-num">5</div>
-              <div class="vm-misi-text">Menerapkan prinsip koperasi yang transparan, akuntabel, dan berkelanjutan dalam setiap kegiatan usaha.</div>
+              <div class="vm-misi-text">Menjadi Organisasi yang Transparan dengan Good Corporate Governance.</div>
             </div>
           </div>
         </div>
